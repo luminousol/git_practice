@@ -1,13 +1,9 @@
 hello github
 Git is good.
-<<<<<<< HEAD
 Do it!
-=======
 
 Hello
 Cheer up!
->>>>>>> d0a91236e6b68afe1c94af425b516a0423711343
-
 
 안녕하세요
 
